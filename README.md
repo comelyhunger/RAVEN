@@ -1,4 +1,4 @@
-
+![RAVEN](claude%20and%20raven.png)
 # RAVEN 🦅
 ### A Claude-powered collecting agent that learns your taste and hunts for you
 
