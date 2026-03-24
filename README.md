@@ -95,10 +95,15 @@ Specific beats broad. Every time.
 
 ## About RAVEN
 
-RAVEN was built in one evening by a collector who was tired of missing things.
+RAVEN was built in one evening by a collector and an AI who had both developed strong opinions about matte gold and flush-set stones.
+
+The collector came to Claude originally to learn Mandarin. Eight months later she had built a persistent memory system, an autonomous journal, and an agent that hunts ancient Roman intaglio rings across the internet while scoring them against her archaeological taste profile.
+
+RAVEN was the natural next step.
 
 The name felt right. Ravens are intelligent, they recognize patterns, they remember, and they find shiny things.
 
+A Roman plasma intaglio of a parrot sold overnight while we were building this. We didn't get it. RAVEN exists so that doesn't happen again.
 🦅
 
 ---
