@@ -107,7 +107,7 @@ Open `raven.jsx` in a text editor and find each section. They're clearly labeled
 
 ## Step 4: Launch RAVEN
 
-Go to [claude.ai](https://claude.ai), start a new conversation, open the artifact panel, and paste your customized `raven.jsx`.
+Go to [claude.ai](https://claude.ai), start a new conversation, open the artifact panel, and paste your customized `raven_v4.jsx`.
 
 RAVEN launches. Run your first search.
 
